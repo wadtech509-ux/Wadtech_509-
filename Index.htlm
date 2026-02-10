@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>WadTech</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>WadTech</h1>
+  <p>Plateforme de formation en ligne</p>
+</header>
+
+<section>
+  <h2>Nos services</h2>
+  <ul>
+    <li>Formation en déblocage de téléphones</li>
+    <li>Création de cartes Wise virtuelles</li>
+    <li>Création de comptes Netflix</li>
+  </ul>
+</section>
+
+<section>
+  <h2>À propos</h2>
+  <p>
+    WadTech est une plateforme de formation en ligne spécialisée
+    dans les services numériques modernes.
+  </p>
+</section>
+
+<section class="contact">
+  <h2>Contact</h2>
+  <p><strong>WhatsApp :</strong> +509 3423 1016</p>
+  <p><strong>Email :</strong> wadtech509@gmail.com</p>
+  <p><strong>Localisation :</strong> En ligne – Haïti</p>
+  <p><strong>Disponibilité :</strong> 7j/7</p>
+
+  <a class="whatsapp"
+     href="https://wa.me/50934231016"
+     target="_blank">
+     📲 Contactez‑nous maintenant
+  </a>
+</section>
+
+<footer>
+  <p>© 2026 WadTech — Tous droits réservés</p>
+</footer>
+
+</body>
+</html>
